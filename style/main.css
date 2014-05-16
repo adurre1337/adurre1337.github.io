@@ -320,7 +320,7 @@ hr {
   .tile.tile-4 .tile-inner {
     background: #045FB4;
     background-image: url("../im/tailow.png");
-    background-size: 80% 80%;
+    background-size: 90% 90%;
     background-repeat: no-repeat;
     background-position: center;
     font-size: 0px;
@@ -328,7 +328,7 @@ hr {
   .tile.tile-8 .tile-inner {
     background: #2ECCFA;
     background-image: url("../im/mudkip.png");
-    background-size: 80% 80%;
+    background-size: 90% 90%;
     background-repeat: no-repeat;
     background-position: center;
     font-size: 0px;
@@ -336,7 +336,7 @@ hr {
   .tile.tile-16 .tile-inner {
     background: #FE9A2E;
     background-image: url("../im/nuzleaf.png");
-    background-size: 80% 80%;
+    background-size: 90% 90%;
     background-repeat: no-repeat;
     background-position: center;
     font-size: 0px;
