@@ -386,9 +386,9 @@ hr {
     background-position: center;
     font-size: 0px; }
   .tile.tile-2048 .tile-inner {
-    background: #c76d5c;
-    background-image: url("../im/charizard.png");
-    background-size: 80% 80%;
+    background: #FFFFC2;
+    background-image: url("../im/jirachi.png");
+    background-size: 100% 100%;
     background-repeat: no-repeat;
     background-position: center;
     font-size: 0px; }
