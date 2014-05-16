@@ -352,7 +352,7 @@ hr {
   .tile.tile-64 .tile-inner {
     background: #6D6968;
     background-image: url("../im/absol.png");
-    background-size: 80% 80%;
+    background-size: 100% 100%;
     background-repeat: no-repeat;
     background-position: center;
     font-size: 0px;
